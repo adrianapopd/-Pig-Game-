@@ -4,6 +4,6 @@ This is my second project from the "Complete JavaScript Course ...". This game i
 Personal thoughts: I think it's really nice that the display looks like a pig's face, from which the name. 
 
 Here are some SCREENSHOTS to see features of my project and my code:
-![SCREENSHOT1](/.piggame1.png)
-![SCREENSHOT1](/.piggame2.png)
-![SCREENSHOT1](/.piggame3.png)
+![SCREENSHOT1](./piggame1.png)
+![SCREENSHOT1](./piggame2.png)
+![SCREENSHOT1](./piggame3.png)
